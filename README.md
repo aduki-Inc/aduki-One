@@ -54,13 +54,13 @@ aduki-One AI Voice assistant:"Loading your personal Assistant aduki-One....
 6. Ask geographical and computational questions
 	
   	 	
-		Human: Hey aduki-One, What is the capital of California? / Hey aduki-One what is Sin 90?
+		Human: Hey aduki-One, What is the capital of Kenya? / Hey aduki-One what is Sin 90?
 		
 		
 7. Predict Weather of different Cities
    		
 	
-		Human: Hey aduki-One , What is the weather likely now in Kerala?
+		Human: Hey aduki-One , What is the weather likely now in Nairobi?
 		
 	
 8. Abstarct necessary information from wikipedia
