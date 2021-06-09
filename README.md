@@ -33,7 +33,7 @@ aduki-One AI Voice assistant:"Loading your personal Assistant aduki-One....
 		Human : Hey aduki-One , What is the time
 		
 		
-3.Fetch Top headlines from Times of India
+3.Fetch Top headlines from Google news
 	
          
 		Human:Hey aduki-One , what's the latest news?
@@ -75,7 +75,7 @@ aduki-One AI Voice assistant:"Loading your personal Assistant aduki-One....
 9. Ask G-One about what task it can perform and who created it
 	
    		
-	  	Human: Hey aduki-One, Who created you? / Hey G-One , What can you do
+	  	Human: Hey aduki-One, Who created you? / Hey aduki-One , What can you do
 		
 		
 10.Turn off your pc when required
