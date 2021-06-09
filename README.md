@@ -5,7 +5,7 @@ A project to build an AI voice assistant using Python . The Voice assistant inte
 
 ### About aduki-One :
 
-![AI FINAL](https://user-images.githubusercontent.com/51138087/93668051-f7c4af00-fa3e-11ea-9b17-5913e954795f.png)
+![AI FINAL](aduki.png)
 
 
 Aduki-One is an AI personal voice assistant service built using Sublime Text3. It can understand human speech and perform basic task designed by the client.
