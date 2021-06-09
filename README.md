@@ -10,7 +10,7 @@ A project to build an AI voice assistant using Python . The Voice assistant inte
 
 Aduki-One is an AI personal voice assistant service built using Sublime Text3. It can understand human speech and perform basic task designed by the client.
 
-When the user specify the appropriate trigger words , The G-One gets activated and executes the user commands.
+When the user specify the appropriate trigger words , The aduki-One gets activated and executes the user commands.
 
 
 aduki-One AI Voice assistant:"Loading your personal Assistant aduki-One....
@@ -133,7 +133,7 @@ A blog on "How to build your Own AI voice assistant using Python" is published o
 [https://medium.com/@isfescii](url)
 
 <p align="left">
-  <a href="https://medium.com/@mmirthula02" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="kushalbhanot" height="60" width="45" /></a> &nbsp;&nbsp;
+  <a href="https://medium.com/@fescii" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="kushalbhanot" height="60" width="45" /></a> &nbsp;&nbsp;
 </p>
 
 
