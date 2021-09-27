@@ -96,7 +96,7 @@ if __name__ == "__main__":
             time.sleep(5)
 
         elif "weather" in statement:
-            api_key = "8ef61edcf1c576d65d836254e11ea420"
+            api_key = "61253444d3eb1b451bc6d8865c1d16c2"
             base_url = "https://api.openweathermap.org/data/2.5/weather?"
             speak("whats the city name")
             city_name = takeCommand()
